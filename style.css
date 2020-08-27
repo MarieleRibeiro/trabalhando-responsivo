@@ -1,0 +1,133 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Mulish", sans-serif;
+  outline: none;
+  font-family: "Nunito", sans-serif;
+}
+body {
+  background: #0f0f1b;
+  width: 100%vw;
+  height: 1200px;
+  display: flex;
+  justify-content: center;
+}
+#container {
+  background: #0f0f1b;
+  width: 835px;
+  height: 568px;
+}
+header h1 {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 35px;
+  text-align: center;
+  color: #ffffff;
+  margin-bottom: 15px;
+}
+header p {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 25px;
+  text-align: center;
+  color: #ffffff;
+  margin-bottom: 78px;
+}
+#content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.get {
+  background: #242486;
+  border-radius: 20px;
+  width: 265px;
+  height: 267px;
+  margin-right: 20px;
+}
+.get h1 {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 30px;
+  color: #ffffff;
+  margin: 35px 59px 20px 35px;
+}
+.get h2 {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 35px;
+  color: #ffffff;
+  margin: 35px 59px 55px 35px;
+}
+a {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 22px;
+  color: #ffffff;
+  margin-right: 140px;
+  margin-bottom: 40px;
+  margin-left: 35px;
+}
+.card {
+  background: #171727;
+  border-radius: 20px;
+  width: 265px;
+  height: 267px;
+  margin-right: 20px;
+}
+.best {
+  background: #a0e0b2;
+  border-radius: 15px;
+  width: 110px;
+  height: 30px;
+}
+.card h1 {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 30px;
+  color: #ffffff;
+  margin: 20px 59px 35px;
+}
+.card h2 {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 35px;
+  color: #ffffff;
+  margin-left: 35px;
+  margin-bottom: 4px;
+}
+.card p {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 22px;
+  color: #ffffff;
+  margin-left: 35px;
+  margin-bottom: 44px;
+}
+button {
+  background: #0f0f1b;
+  border: 2px solid #1f1f35;
+  border-radius: 10px;
+  width: 168px;
+  height: 59px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  text-align: center;
+
+  color: #8080b9;
+}
+.button {
+  display: flex;
+  justify-content: center;
+  margin-top: 64px;
+}
